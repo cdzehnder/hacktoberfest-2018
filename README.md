@@ -733,6 +733,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Lover of programming, Greek mythology, Marvel.
 - [![github-alt][github-img]](https://github.com/chirag2506)
   [![twitter-alt][twitter-img]](https://twitter.com/chiraggupta2506)
+  
+### Cdzehnder
+- I'm a marketing specialist, newbie to open source.
+  [![github-alt][github-img]](https://github.com/cdzehnder)
 
 ### Cleber Fonseca
 - I'm a programming teacher at IFSUL.
